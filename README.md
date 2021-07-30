@@ -1,5 +1,5 @@
 # GOOD NEWS ROBOT
-## IRONHACK_FINAL_PROJECT
+## IRONHACK FINAL PROJECT
 by [Anna Beteta](https://github.com/Annbeele), July 2021
 <br/><br/>
 
@@ -51,5 +51,7 @@ To keep you informed about latest GOOD NEWS in the world
 - To see the presentation, click on the following link:
 ![Presentation](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/Good_News_Robot_Presentation.key)
 
+- To see the Trello board, click on the following link:
+![Trello](https://trello.com/b/wglu7YPy/good-news-robot)
 
 <br/><br/>
