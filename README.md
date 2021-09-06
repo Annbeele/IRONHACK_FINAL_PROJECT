@@ -1,7 +1,13 @@
-# GOOD NEWS ROBOT
-## IRONHACK FINAL PROJECT
-by [Anna Beteta](https://github.com/Annbeele), July 2021
+
+<h1 align="center"> GOOD NEWS ROBOT </h1>
+<p align="center">
+ <i> Anna Beteta, July 2021 <br/><br/>
+  Data Analytics Bootcamp - May2021
+ </i>
+</p>
+
 <br/><br/>
+
 
 ![Good_news_robot](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/Good_News_Robot_wallpaper.png)
 
