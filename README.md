@@ -25,7 +25,7 @@ To keep you informed about latest GOOD NEWS in the world
 1. TRAINING THE MACHINE LEARNING MODEL
 - We used TF vectorizer + Naive-Bayes to train the robot on how to predict news articles categories.
 - As Naive-Bayes is a supervised model, we trained it with a labelled dataset:
-![BBC_archive_dataset](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/bbc-news-data.csv)
+[BBC_archive_dataset](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/bbc-news-data.csv)
 
 2. GET NEWS FROM API: Using NewsAPI Source = BBC News
 - We get the title, description and URL
@@ -46,12 +46,12 @@ To keep you informed about latest GOOD NEWS in the world
 
 ## LINKS
 - To see the script, click on the following link:
-![JUPYTER_NOTEBOOK](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/Good%20News%20Robot.ipynb)
+[JUPYTER_NOTEBOOK](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/Good%20News%20Robot.ipynb)
 
 - To see the presentation, click on the following link:
-![Presentation](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/Good_News_Robot_Presentation.key)
+[Presentation](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/Good_News_Robot_Presentation.key)
 
 - To see the Trello board, click on the following link:
-![Trello](https://trello.com/b/wglu7YPy/good-news-robot)
+[Trello](https://trello.com/b/wglu7YPy/good-news-robot)
 
 <br/><br/>
