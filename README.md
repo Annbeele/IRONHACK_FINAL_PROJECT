@@ -1,24 +1,39 @@
+![Good_news_robot](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/images/Robot-title-github.png)
 
-<h1 align="center"> GOOD NEWS ROBOT </h1>
 <p align="center">
- <i> Anna Beteta, July 2021 <br/><br/>
-  Data Analytics Bootcamp - May2021
+ <img src="https://img.shields.io/badge/python-v3.8%2B-blue">
+ <img src="https://img.shields.io/badge/-Naive%20Bayes-yellowgreen">
+ <img src="https://img.shields.io/badge/-NLP-red">
+ <img src="https://img.shields.io/badge/-TF%20Vectorizer-ff69b4">
+</p>
+
+<p align = "center">
+ <i> Anna Beteta, 2021 •
+  Data Analytics Bootcamp - Ironack
  </i>
 </p>
 
+
+
+<h2 align="center"> 
+  <a href="#project-description">PROJECT DESCRIPTION</a> •
+  <a href="#approach">APPROACH</a> •
+  <a href="#how-to-use">HOW TO USE</a> 
+</h2>
+
 <br/><br/>
 
-
-![Good_news_robot](https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/Good_News_Robot_wallpaper.png)
-
-
-## SCENARIO
+## PROJECT DESCRIPTION
 Aren’t you tired of seeing so many bad news in the media?
 GOOD NEWS Robot is here to help!  
 
-**MAIN TOOLS: Naive-Bayes, TF Vectorizer, NLP, Sentiment Analysis**
+## APPROACH
+Naive-Bayes, TF Vectorizer, NLP, Sentiment Analysis**
 
 <br/><br/>
+
+
+## HOW TO USE
  
 ### WHAT DOES THE GOOD NEWS ROBOT DO?
 It gathers news articles from the last 7 days until today
