@@ -32,6 +32,14 @@ Have you ever felt overwhelmed by all the concerning issues and catastrophic hea
 **GoodNews**Robot consists of a real-time tool that gives you a quick insight about 🌈 good news 🌈 happening in the world. By gathering news articles from the last seven days, it displays a friendly visualization on the most frequent words from the main good-vibes topics.
 
 It also predicts the category of each article and shows you a breakdown of good - neutral - bad news by category.
+
+<p align="center">
+<img src="https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/images/WordCloud_today.png" alt="Wordcloud" width="350" height="250" class="center">
+
+<img src="https://github.com/Annbeele/IRONHACK_FINAL_PROJECT/blob/main/FINAL%20PROJECT%20-%20Good%20News%20Robot/images/stacked_bar.png" alt="StackedBar" width="300" height="250" class="center">
+
+ </p>
+ 
 <br/><br/>
 
 ## APPROACH
@@ -48,7 +56,7 @@ This data is then cleaned and stored into a dataframe to prepare it for the next
 <br/><br/>
 
 ### 2 - CATEGORY PREDICTION
-## 2.1 - Training the model
+#### 2.1 - Training the model
 
 <p align = "center">
  DATASET
@@ -67,7 +75,7 @@ However, as the machine learning decision models can only process and learn from
 We then use the encoded data to feed into Naïve Bayes and train our model with the given dataset.
 <br/><br/>
 
-## 2.2 - Predicting news categories
+#### 2.2 - Predicting news categories
 Once we cleaned the data form the API, we are ready to apply our trained model into new data and predict the category of each article.
 <br/><br/>
 
