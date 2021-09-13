@@ -58,14 +58,14 @@ This data is then cleaned and stored into a dataframe to prepare it for the next
 ### 2 - CATEGORY PREDICTION
 #### 2.1 - Training the model
 
-<p align = "center">
+<p>
  DATASET
-</p> 
+
 In order to teach the model on how to classify news articles into categories, we use the <a href="https://www.kaggle.com/hgultekin/bbcnewsarchive">BBC News Archive Kaggle Dataset</a>. It consists of 2225 labelled articles from the BBC news website from 2004-2005, corresponding to five categories: business, entertainment, politics, sport and tech.
+</p> 
  
-<p align = "center"> 
+<p> 
  MODEL: TF vectorizer + Naïve bayes
-</p>
 
 **GoodNews**Robot uses the Naïve Bayes approach to model news category predictors. It is a well-known algorithm which consists of a probabilistic classifier for binary and multi-class classification problems.
 
@@ -73,7 +73,7 @@ However, as the machine learning decision models can only process and learn from
 
 
 We then use the encoded data to feed into Naïve Bayes and train our model with the given dataset.
-<br/><br/>
+</p>
 
 #### 2.2 - Predicting news categories
 Once we cleaned the data form the API, we are ready to apply our trained model into new data and predict the category of each article.
